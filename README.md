@@ -12,7 +12,10 @@ This is our repository for the United Nations Datathon, using code accessed from
 2. To analyze the relationship between food insecurity and global warming, we created a heatmap and various maps to understand look at features related to global warming and food insecurity across the globe.
 
 3. To understand the relationships between education and food insecurity, we completed exploratory data analysis to understand how food insecurity impacts education.
+   
+# SDGs
 We targeted SDGs 2 (no hunger) 4 (quality education), and 13 (climate action).
+
 # Tech Stack
 Our tech stack consists of python and the following libraries: 
 1. Numpy
